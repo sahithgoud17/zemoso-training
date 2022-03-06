@@ -1,0 +1,2 @@
+# zemoso-training
+GIT assignments
